@@ -1,0 +1,14 @@
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/bin/Debug/net9.0/ConsoleAppWendingAvtomat
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/bin/Debug/net9.0/ConsoleAppWendingAvtomat.deps.json
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/bin/Debug/net9.0/ConsoleAppWendingAvtomat.runtimeconfig.json
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/bin/Debug/net9.0/ConsoleAppWendingAvtomat.dll
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/bin/Debug/net9.0/ConsoleAppWendingAvtomat.pdb
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/obj/Debug/net9.0/ConsoleAppWendingAvtomat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/obj/Debug/net9.0/ConsoleAppWendingAvtomat.AssemblyInfoInputs.cache
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/obj/Debug/net9.0/ConsoleAppWendingAvtomat.AssemblyInfo.cs
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/obj/Debug/net9.0/ConsoleAppWendingAvtomat.csproj.CoreCompileInputs.cache
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/obj/Debug/net9.0/ConsoleAppWendingAvtomat.dll
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/obj/Debug/net9.0/refint/ConsoleAppWendingAvtomat.dll
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/obj/Debug/net9.0/ConsoleAppWendingAvtomat.pdb
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/obj/Debug/net9.0/ConsoleAppWendingAvtomat.genruntimeconfig.cache
+/Users/kirillkockin/RiderProjects/ConsoleAppWendingAvtomat/ConsoleAppWendingAvtomat/obj/Debug/net9.0/ref/ConsoleAppWendingAvtomat.dll
